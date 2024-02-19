@@ -1,0 +1,7 @@
+pip3 install "urllib3 <=1.26.15"
+
+//div[1]/div[3]/div[//@id='button']
+
+
+//body/ytd-app/div[1]/tp-yt-app-drawer/div[2]/div/div[2]/div[1]/yt-icon-button/button
+/html/body/ytd-app/div[1]/tp-yt-app-drawer/div[2]/div/div[2]/div[2]/ytd-guide-renderer/div[1]/ytd-guide-section-renderer[5]/div/ytd-guide-entry-renderer[3]/a
